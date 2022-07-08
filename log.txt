@@ -1,0 +1,1 @@
+move/click failed at 1657300666.8227916 | count = 5167 | x = 646 | y = 876 | mouse pos. = Point(x=463, y=905) 
